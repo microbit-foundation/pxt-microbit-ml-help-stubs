@@ -1,6 +1,6 @@
 {
     "name": "machine-learning-help-stubs",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Stubs to support the machine-learning help documentation",
     "dependencies": {
         "core": "*"
